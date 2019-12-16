@@ -2,10 +2,10 @@
   "name": "quotes",
   "version": "0.0.1",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/LeBenLeBen/quotes.git"
+    "type": "git",
+    "url": "https://github.com/mghs-suggestions/quotes.git"
   },
-  "homepage": "https://lebenleben.github.io/quotes",
+  "homepage": "https://github.com/mghs-suggestions/quotes",
   "license": "MIT",
   "author": "Benoît Burgener",
   "private": true,
